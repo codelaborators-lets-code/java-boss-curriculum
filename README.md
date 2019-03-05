@@ -19,6 +19,9 @@
  
 ## Lesson 2: Java Basics
  - [Demo Video](https://youtu.be/DKb87iqYsU8)
+ - **Assignment**: AboutMe.java
 
 ## Lesson 3: User Input
 - [RectangleArea Demo Video](https://youtu.be/P4jmZCLLrkw)
+- **Assignment**: TriangleArea.java
+
