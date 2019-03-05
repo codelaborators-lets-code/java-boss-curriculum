@@ -1,4 +1,5 @@
 # java-boss-curriculum
+This page is a one stop shop for **Coding Java Like A Boss** curriculum. The best way to interact with each link is to *right click and open link in new tab* this way you always have a new window pop up in your browser for the item you would like to work in. 
 
 ## Lesson 0: Setup
 
