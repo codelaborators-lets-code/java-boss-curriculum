@@ -26,3 +26,10 @@ This page is a one stop shop for **Coding Java Like A Boss** curriculum. The bes
 - [RectangleArea Demo Video](https://youtu.be/P4jmZCLLrkw)
 - **Assignment**: TriangleArea.java
 
+## Lesson 4: Building a Guessing Game
+- [Part 1](https://youtu.be/zTIMmtTshKs)
+- [Part 2](https://youtu.be/6ivfBuiTXh0)
+- [Part 3](https://youtu.be/klA1VkraE7Y)
+- [Part 4](https://youtu.be/9oTpBfQ-dg8)
+- **Assignment**: RockPaperScissors.java [Get started!](https://youtu.be/aQiY0RL1yTc)
+
