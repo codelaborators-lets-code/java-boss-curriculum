@@ -49,4 +49,8 @@ In this lesson you will lean what makes Java such a powerful programming languag
 
 ## Lesson 7: Artificial Intelligence and making a chat bot
 Manipulate strings and utilize tools that allow for text recognition. In this lesson you will make a chat bot..the opportunities after this are endless...make it as sophisticated as you wish! 
+- [Slide Deck of the lesson](https://www.dropbox.com/s/vu8yy0w156ezgtp/Lesson%207%20Artificial%20Intelligence.pptx?dl=0)
+- [What is AI? And Project Setup](https://youtu.be/yqzZJFafEVo)
+- [Part 1](https://youtu.be/hO3A_r2-ShE)
+- [Part 2](https://youtu.be/fLZX0Q-oCVU)
 
